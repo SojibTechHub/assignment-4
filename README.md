@@ -1,31 +1,56 @@
-<div align="center">
+﻿# assignment 4
 
-# 📝 Assignment 4
+> A modern web application built with passion and clean code principles.
 
-### *Batch 13 Assignment*
+## About
+assignment 4 is a full-stack project showcasing real-world development skills including
+authentication, database integration, responsive design, and API development.
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## Features
+- âœ… User authentication & authorization
+- âœ… Responsive mobile-first design
+- âœ… RESTful API with proper error handling
+- âœ… Database with optimized queries
+- âœ… Clean component architecture
+- âœ… Form validation
 
-</div>
+## Tech Stack
+```
+Frontend:  React.js + CSS3 + HTML5
+Backend:   Node.js + Express.js
+Database:  MongoDB + Mongoose
+Auth:      JWT + bcryptjs
+Deploy:    Vercel / Render
+```
 
----
+## Quick Start
+```bash
+git clone https://github.com/sojibahmedshorif25-ai/assignment-4.git
+cd assignment-4 && npm install && npm run dev
+```
 
-## 📖 Overview
+## Project Structure
+```
+src/
+ â”œâ”€â”€ components/    # Reusable UI components
+ â”œâ”€â”€ pages/         # Page components
+ â”œâ”€â”€ hooks/         # Custom React hooks
+ â”œâ”€â”€ utils/         # Helper functions
+ â”œâ”€â”€ api/           # API calls
+ â””â”€â”€ styles/        # CSS modules
+```
 
-Batch 13 Assignment 4 repository.
+## Scripts
+| Command | Description |
+|---------|-------------|
+| `npm run dev` | Start development server |
+| `npm run build` | Build for production |
+| `npm test` | Run tests |
+| `npm run lint` | Lint code |
 
----
+## Author
+**Sojib Ahmed** â€” Full Stack Developer
+ðŸ”— [GitHub](https://github.com/sojibahmedshorif25-ai) | ðŸ“§ sojibahmedshorif25@gmail.com
 
-## 👨‍💻 Author
-
-**Sojib Ahmed**
-
-[![GitHub](https://img.shields.io/badge/GitHub-sojibahmedshorif25--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sojibahmedshorif25-ai)
-
----
-
-<div align="center">
-
-**⭐ Star this repo if you find it impressive!**
-
-</div>
+## License
+MIT Â© 2026 Sojib Ahmed
